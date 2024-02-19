@@ -4,4 +4,8 @@
 
 
 
-
+@layer base {
+    body {
+      @apply bg-slate-200 
+    }
+  }
